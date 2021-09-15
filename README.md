@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MichanAngel
-- bagaimana kau memakaiku? Type.menu
+- bagaimana kau memakaiku? Type .menu
+- Dan selamat datang juga... 
 
 <!---
 MichanAngel/MichanAngel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
